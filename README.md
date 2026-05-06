@@ -25,7 +25,7 @@ I build web and mobile apps using **Angular, React, PHP and SQL** — from UI to
 
 | Project | Stack | Description |
 |---|---|---|
-| [Angular-CRUD]([https://github.com/EstebannS/angular-ngrx-app](https://github.com/EstebannS/Angular-CRUD)) | Angular · TypeScript · NgRx | SPA with centralized state management and lazy loading, built as a technical assessment |
+| [Angular-CRUD](https://github.com/EstebannS/angular-ngrx-app](https://github.com/EstebannS/Angular-CRUD)) | Angular · TypeScript · NgRx | SPA with centralized state management and lazy loading, built as a technical assessment |
 | [flight-reservation-system](https://github.com/EstebannS/flight-reservation-system) | JavaScript | Flight reservation system with booking logic and dynamic UI |
 | [prestamosFUCS](https://github.com/EstebannS/prestamosFUCS) | PHP · Laravel · MySQL | Backend REST API for equipment loan management at a university — built during internship |
 | [Vivento App](https://github.com/EstebannS) | React Native · PHP · MySQL | Full-stack mobile app with authentication and CRUD operations |
