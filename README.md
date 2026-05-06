@@ -25,17 +25,20 @@ I build web and mobile apps using **Angular, React, PHP and SQL** — from UI to
 
 | Project | Stack | Description |
 |---|---|---|
-| [Angular-CRUD]([https://github.com/EstebannS/angular-ngrx-app](https://github.com/EstebannS/Angular-CRUD)](https://github.com/EstebannS/Angular-CRUD)) | Angular · TypeScript · NgRx | SPA with centralized state management and lazy loading, built as a technical assessment |
+| [Angular-CRUD](https://github.com/EstebannS/Angular-CRUD) | Angular · TypeScript · NgRx | SPA with centralized state management and lazy loading, built as a technical assessment |
 | [flight-reservation-system](https://github.com/EstebannS/flight-reservation-system) | JavaScript | Flight reservation system with booking logic and dynamic UI |
 | [prestamosFUCS](https://github.com/EstebannS/prestamosFUCS) | PHP · Laravel · MySQL | Backend REST API for equipment loan management at a university — built during internship |
 | [Vivento App](https://github.com/EstebannS) | React Native · PHP · MySQL | Full-stack mobile app with authentication and CRUD operations |
 
 ---
 
-**GitHub stats**
+**GitHub activity**
 
-![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebannS&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebannS&layout=compact&hide_border=true&theme=default)
+![Profile views](https://komarev.com/ghpvc/?username=EstebannS&style=flat-square&color=1A5276)
+![Followers](https://img.shields.io/github/followers/EstebannS?style=flat-square&color=1A5276)
+![Stars](https://img.shields.io/github/stars/EstebannS?style=flat-square&color=1A5276)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EstebannS&theme=default&hide_border=true)](https://github.com/EstebannS)
 
 ---
 
